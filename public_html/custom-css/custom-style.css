@@ -1,0 +1,162 @@
+
+
+#img-1 {
+    display: block;
+    margin: auto;
+}
+
+#img-2 {
+    height: 100px;
+    width: 100px;   
+}
+
+#h1-1 {
+    font-family: NEW YORK;
+    text-align: center;
+    font-size: 100px;
+    margin-top: -20px;
+    color: white;
+}
+
+#h1-2 {
+    font-family: Guild of Professional Actors;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+#h1-3 {
+    font-family: Guild of Professional Actors;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+    float: left;
+    margin-left: 800px;
+    color: #dca7a7;
+}
+
+#h1-3:hover {
+    color: #ce8483;
+    transition: 0.7s;
+}
+
+#h1-4 {
+    font-family: Guild of Professional Actors;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+    float: right;
+    margin-right: 800px;
+    color: #dca7a7;
+}
+
+#h1-4:hover {
+    color: #ce8483;
+    transition: 0.7s;
+}
+
+#hline {
+    border: black;
+}
+
+#hr-1 {
+    border: 1px dotted white;
+    margin-top: -50px;
+    margin-left: 90px;
+}
+
+#jumbotron-1 {
+    margin-top: 50px;
+    background: rgba(0,0,0,.7);
+    border-radius: 360px;
+    width: 360px;
+    height: 360px;
+    float: right;
+    margin-right: 100px;
+}
+
+#jumbotron-2 {
+    margin-top: 50px;
+    background: rgba(0,0,0,.7);
+    border-radius: 360px;
+    width: 360px;
+    height: 360px;
+    float: left;
+    margin-left: 100px;
+}
+
+#jumbotron-3 {
+    margin-top: 50px;
+    background: rgba(0,0,0,.7);
+    border-radius: 360px;
+    width: 360px;
+    height: 360px;
+    float: left;
+    margin-left: 350px;
+}
+
+#h1-5 {
+    font-family: Guild of Professional Actors;
+    text-align: center;
+    color: #ce8483;
+}
+
+#nav-1 {
+    margin-top: 50px;
+    margin-bottom: -50px;
+}
+
+#nav-2 {
+    margin-top: -30px;
+}
+
+.verticalLine {
+    border-right: thin solid lightgrey;
+    height: 400px;
+    padding: 0px;
+    margin-top: -50px;
+    margin-bottom: -50px;
+    float: left;
+}
+
+video#bgvid {
+position: fixed; right: 0; bottom: 0;
+min-width: 100%; min-height: 100%;
+width: auto; height: auto; z-index: -100;
+background: url(polina.jpg) no-repeat;
+background-size: cover;
+}
+
+#h1-jumbo {
+    text-align: center;
+    color: white;
+    font-family: Guild of Professional Actors;
+}
+
+#p-jumbo {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+#button-jumbo {
+    font-size: 20px;
+    text-align: center;
+    border: solid #ce8483 1px;
+    color: #ce8483;
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+
+#button-jumbo:hover {
+    font-size: 20px;
+    text-align: center;
+    border: solid #dca7a7 1px;
+    color: #dca7a7;
+    width: 100px;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
